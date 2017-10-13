@@ -28,7 +28,7 @@ if(x=="4"){xxx="instructions-to-pick-correct-it-organization.html"}
 if(x=="5"){xxx="nutritious-vegetarian-eating-regimen.html"}
 if(x=="6"){xxx="9-benefits-of-playing-video-games.html"}
 if(x=="7"){xxx="the-most-effective-method-to-maintain.html"}
-if(x=="8"){xxx="my-tips-on-improving-your-finances-for"}a_to_ve[i].href="http://www.safearsip.ga/2017/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="8"){xxx="my-tips-on-improving-your-finances-for.html"}a_to_ve[i].href="http://www.safearsip.ga/2017/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
